@@ -1,0 +1,6 @@
+*.class
+*.dll
+*.txt
+*.png
+.idea/
+out/
